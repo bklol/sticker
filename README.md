@@ -1,10 +1,11 @@
 # Nekosticker插件
-
-* 该版本可以修改到自己有的皮肤上[也支持WS换肤],市面上需要另外ws插件依赖直接更换贴纸会导致自己皮肤显示失败.
-
+* 移除多余拓展依赖,只需要PTaH拓展,支持Windows/Linux。
+* 该版本可以修改到自己有的皮肤上[也支持WS换肤],公开版本插件只能使用另外的修改皮肤插件,直接更换贴纸会导致自己皮肤显示失败。
 * mysql support
+* 全部可视菜单 + 国内物品API支持同步更新。
 
-* 全部可视菜单 + 国内物品API支持同步更新
+talk me@https://steamcommunity.com/id/asukaiiloveyou/
+or 1308734055@qq.com
 
 主菜单：
 ![1](https://github.com/bklol/sticker/blob/main/ss/main.jpg)
