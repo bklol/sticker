@@ -4,7 +4,7 @@
 * mysql support
 * 全部可视菜单 + 国内物品API支持同步更新。
 
-talk me@https://steamcommunity.com/id/asukaiiloveyou/
+talk me[联系我]@https://steamcommunity.com/id/asukaiiloveyou/
 or 1308734055@qq.com
 
 主菜单：
