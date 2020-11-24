@@ -3,9 +3,11 @@
 * 该版本可以修改到自己有的皮肤上[也支持WS换肤],公开版本插件只能使用另外的修改皮肤插件,直接更换贴纸会导致自己皮肤显示失败。
 * mysql support 支持修改贴纸 大小 角度 磨损
 * 全部可视菜单 + 国内物品API支持同步更新。
+* 提供API 可自由修改 修改贴纸 编号 大小 角度 磨损
 
-contact me@https://steamcommunity.com/id/asukaiiloveyou/
-or 1308734055@qq.com
+联系我@https://steamcommunity.com/id/asukaiiloveyou/
+
+或者1308734055@qq.com
 
 主菜单：
 ![1](https://github.com/bklol/sticker/blob/main/ss/main.jpg)
