@@ -1,7 +1,7 @@
-#if defined _neko_included_
+#if defined _nekosticker_included_
 	#endinput
 #endif
-#define _neko_included_
+#define _nekosticker_included_
 
 public SharedPlugin __pl_neko = {
   name = "Neko-Sticker",
@@ -17,7 +17,7 @@ public SharedPlugin __pl_neko = {
  * Set sticker to weapon.
  *
  * @param client			Client index.
- * @param weapon			Weapon index.
+ * @param weapon			Weapon Classname.
  * @param slot				Sticker Slot number.(0-5)
  * @param defIndex			Sticker defIndex.(must > 0)
  * @param wear				Sticker wear.(must > 0 def 0.0)
@@ -26,5 +26,5 @@ public SharedPlugin __pl_neko = {
  * @return					True on success, false on failure.
  */
  
-native bool NEKO_SetSticker(int client, int weapon, int slot = 0, int defIndex = 0, float wear = 0.0, float rotation = 0.0, float scale = 1.0);
+native bool NEKO_SetSticker(int client, char[] classname, int slot = 0, int defIndex = 0, float wear = 0.0, float rotation = 0.0, float scale = 1.0);
 
