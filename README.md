@@ -5,7 +5,7 @@
 * 全部可视菜单 + 国内物品API支持同步更新。
 * 提供API 可自由修改 修改贴纸 编号 大小 角度 磨损
 
-#NOT sell
+# NOT sell 不再出售
 
 主菜单：
 ![1](https://github.com/bklol/sticker/blob/main/ss/main.jpg)
