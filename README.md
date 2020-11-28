@@ -5,9 +5,7 @@
 * 全部可视菜单 + 国内物品API支持同步更新。
 * 提供API 可自由修改 修改贴纸 编号 大小 角度 磨损
 
-联系我@https://steamcommunity.com/id/asukaiiloveyou/
-
-或者1308734055@qq.com
+#NOT sell
 
 主菜单：
 ![1](https://github.com/bklol/sticker/blob/main/ss/main.jpg)
