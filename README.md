@@ -1,5 +1,5 @@
 # NekoSticker插件
-/**
+* /**
 重写了屎一样的公开版本
 **/
 * 移除多余拓展依赖,只需要PTaH拓展,支持Windows/Linux。
